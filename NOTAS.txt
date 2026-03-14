@@ -1,0 +1,27 @@
+# -------------------- # COMO RODAR OS PROGRAMAS
+
+    Como meu VS CODE ta maluco eu tive que apelar para Shell Script, o comando pega o meu arquivo dentro do diretorio:
+ Cd Documentos ls
+ Cd PROGRAMAS DO MAGO ls
+ Cd 'INVOCAÇÃO DE TEXTO' ls
+ ./rodar.sh php
+ ./rodar.sh java
+ ./rodar.sh python
+
+E o que mais der. 
+
+# -------------------- # PORQUE ESSES PROGRMAS? 
+
+    Esse é o primeiro de 20 programas basicos de um programador de uma lista de 5 niveis. Saber fazer um "Hello World"
+em 5 linguagens para entender como funcionam. Tanto que o nome dessa pasta é "Invocação de Texto"
+    Esse projeto consiste em transformar para mim programação em magia, assim como RGP, sendo esse para mim um "Feitiço".
+Cujo o objetivo é entender como linguagens invocam texto.
+
+# ------------------- # PORQUE ESSAS LINGUAGENS?
+
+    Peguei aquelas que quero me aprofundar.
+    - Sendo Python para desenvolvimento de automações;
+    - Sendo PHP para me auxiliar no desenvolvimento de sites;
+    - Sendo Java para me auxiliar no entendimento da maquina;
+    - Sendo C para entender linguagens de baixo nivel;
+    - Sendo Shell Script para entender melhor a minha maquina linux e Shells.
